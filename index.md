@@ -113,8 +113,6 @@ title: Email Signatures
 
 </table>
 
-<br><br>
-
 ## Topstep Brokerage
 
 <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:1; color:#000000; max-width:60px;">
