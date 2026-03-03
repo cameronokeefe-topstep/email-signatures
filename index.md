@@ -1,8 +1,3 @@
----
-layout: default
-title: Topstep email signature
----
-
 <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:1; color:#000000; max-width:60px;">
 <tr>
 	<td style="border-top:2px solid #000000;">&nbsp;&nbsp;
@@ -14,9 +9,9 @@ title: Topstep email signature
   <!-- NAME / TITLE / PHONE -->
   <tr>
     <td style="padding:0 0 10px 0; white-space:nowrap;line-height:18px">
-      <strong style="font-size:14px; color:#111111;line-height:22px;letter-spacing: -.15px;">FirstName LastName</strong><br>
-      <span style="color:#333333;font-size:14px">Job Title</span><br>
-      <span style="color:#333333;font-size:14px; text-decoration:none;">xxx-555-1234</span>
+      <strong style="font-size:14px; color:#111111;line-height:22px;letter-spacing: -.15px;font-family:Arial, Helvetica, sans-serif;">FirstName LastName</strong><br>
+      <span style="color:#333333;font-size:14px;font-family:Arial, Helvetica, sans-serif;">Job Title</span><br>
+      <span style="color:#333333;font-size:14px; text-decoration:none;font-family:Arial, Helvetica, sans-serif;">xxx-555-1234</span>
     </td>
   </tr>
 
@@ -31,7 +26,7 @@ title: Topstep email signature
 
   <!-- ADDRESS -->
   <tr>
-    <td style="padding:0 0 12px 0; font-size:12px; color:#333333;">
+    <td style="padding:0 0 12px 0; font-size:12px; color:#333333;font-family:Arial, Helvetica, sans-serif;">
       Chicago Board of Trade Building<br>
       141 W. Jackson Blvd. #4240, Chicago, IL 60604
     </td>
@@ -42,65 +37,48 @@ title: Topstep email signature
     <td>
       <table cellpadding="0" cellspacing="0" border="0">
         <tr>
-
-          
 			<td>
             <a href="https://www.facebook.com/TopstepOfficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-facebook-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Facebook">
             </a>
           </td>
-
-          <td width="8"></td>
-			
+			<td width="8"></td>
 			<td>
             <a href="https://x.com/Topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-x-68x68.png" width="18" height="18" style="display:block; border:0;" alt="X">
             </a>
           </td>
-
-          <td width="8"></td>
-			
-			 <td>
+		<td width="8"></td>
+		<td>
             <a href="https://www.youtube.com/c/TopstepOfficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-youtube-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			
 			<td width="8"></td>
-			
 			<td>
             <a href="https://www.instagram.com/topstep/" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-instagram-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			
 			<td width="8"></td>
-
-          <td>
+			<td>
             <a href="https://www.linkedin.com/company/topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-linkedin-68x68.png" width="18" height="18" style="display:block; border:0;" alt="LinkedIn">
             </a>
           </td>
-
-          <td width="8"></td>
-
-
-          <td>
+		<td width="8"></td>
+		<td>
             <a href="https://www.tiktok.com/@topstepofficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-tiktok-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			
 			<td width="8"></td>
-
-          
-			  <td>
+			<td>
             <a href="https://discord.gg/topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-discord-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-
-        </tr>
+		</tr>
       </table>
     </td>
   </tr>
