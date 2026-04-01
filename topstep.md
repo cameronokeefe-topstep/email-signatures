@@ -93,6 +93,7 @@ title: Topstep
 </div>
 <br>
 <button id="selectBtn">Select Signature</button>
+Press the button above to select the signature and copy (Edit > Copy)
 
 <script>
   const button = document.getElementById('selectBtn');
