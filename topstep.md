@@ -92,19 +92,19 @@ title: Topstep
 </table>
 </div>
 <br>
-<button id="copyBtn">Copy Signature</button>
+<button id="selectBtn">Select Signature</button>
 
 <script>
-  const button = document.getElementById('copyBtn');
+  const button = document.getElementById('selectBtn');
 
-  button.addEventListener('click', async () => {
-    const signature = document.getElementById('signature').innerHTML;
+  button.addEventListener('click', () => {
+    const el = document.getElementById('signature');
 
-    try {
-      await navigator.clipboard.writeText(signature);
-      alert('Copied HTML to clipboard!');
-    } catch (err) {
-      console.error('Failed to copy:', err);
-    }
+    const range = document.createRange();
+    range.selectNodeContents(el);
+
+    const selection = window.getSelection();
+    selection.removeAllRanges();
+    selection.addRange(range);
   });
 </script>
