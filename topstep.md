@@ -92,8 +92,8 @@ title: Topstep
 </table>
 </div>
 <br>
-<button id="selectBtn">Select Signature</button><br>
-Press to select, then copy (Edit > Copy)
+<button id="selectBtn">Select Signature</button><br><br>
+Press button to select, then copy (Edit > Copy)
 
 <script>
   const button = document.getElementById('selectBtn');
