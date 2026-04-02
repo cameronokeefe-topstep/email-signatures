@@ -5,7 +5,7 @@ title: Topstep
 
 <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:1; color:#000000; max-width:60px;">
 <tr>
-	<td style="border-top:2px solid #000000;">&nbsp;&nbsp;
+	<td>&nbsp;&nbsp;
 	</td></tr>
 </table>
 
@@ -42,48 +42,48 @@ title: Topstep
     <td>
       <table cellpadding="0" cellspacing="0" border="0">
         <tr>
-			<td>
+          <td>
             <a href="https://www.facebook.com/TopstepOfficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-facebook-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Facebook">
             </a>
           </td>
-			<td width="8"></td>
-			<td>
+          <td width="8"></td>
+          <td>
             <a href="https://x.com/Topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-x-68x68.png" width="18" height="18" style="display:block; border:0;" alt="X">
             </a>
           </td>
-		<td width="8"></td>
-		<td>
+          <td width="8"></td>
+			    <td>
             <a href="https://www.youtube.com/c/TopstepOfficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-youtube-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			<td width="8"></td>
-			<td>
+          <td width="8"></td>
+          <td>
             <a href="https://www.instagram.com/topstep/" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-instagram-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			<td width="8"></td>
-			<td>
+          <td width="8"></td>
+          <td>
             <a href="https://www.linkedin.com/company/topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-linkedin-68x68.png" width="18" height="18" style="display:block; border:0;" alt="LinkedIn">
             </a>
           </td>
-		<td width="8"></td>
-		<td>
+          <td width="8"></td>
+          <td>
             <a href="https://www.tiktok.com/@topstepofficial" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-tiktok-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-			<td width="8"></td>
-			<td>
+          <td width="8"></td>
+          <td>
             <a href="https://discord.gg/topstep" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/icon-discord-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-		</tr>
+         </tr>
       </table>
     </td>
   </tr>

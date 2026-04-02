@@ -5,7 +5,7 @@ title: Topstep Brokerage
 
 <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:1; color:#000000; max-width:60px;">
 <tr>
-	<td style="border-top:2px solid #000000;">&nbsp;&nbsp;
+	<td>&nbsp;&nbsp;
 	</td></tr>
 </table>
 	
@@ -44,7 +44,7 @@ title: Topstep Brokerage
     <td>
       <table cellpadding="0" cellspacing="0" border="0">
         <tr>
-          <td>
+        <td>
             <a href="https://x.com/topstepbroker" target="_blank">
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/Email%20Signatures/icon-x-68x68.png" width="18" height="18" style="display:block; border:0;" alt="X">
             </a>
@@ -67,7 +67,7 @@ title: Topstep Brokerage
               <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/Email%20Signatures/icon-instagram-68x68.png" width="18" height="18" style="display:block; border:0;" alt="Instagram">
             </a>
           </td>
-        </tr>
+          </tr>
       </table>
     </td>
   </tr>
